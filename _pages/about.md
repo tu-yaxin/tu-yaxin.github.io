@@ -12,7 +12,7 @@ I am a senior undergraduate at [Institute for Interdisciplinary Information Scie
 
 I’m broadly interested in theoretical computer science, with a focus on cryptography and its interplay with other fields.
 
-During my undergraduate, I am fortunate to be advised by great people. 
+During my undergraduate, I was fortunate to be advised by great people. 
 <ul>
 <li>
 I was fortunate to be advised by <a href="http://www.chenyilei.net/">Prof. Yilei Chen</a> who sparked my interest in cryptography. 
