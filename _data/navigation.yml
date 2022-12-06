@@ -4,7 +4,7 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: http://tu-yaxin.github.io/files/Yaxin_Tu_CV.pdf
+    url: /files/Yaxin_Tu_CV.pdf
      
   - title: "Miscellaneous"
     url: /year-archive/
