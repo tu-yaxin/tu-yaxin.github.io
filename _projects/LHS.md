@@ -12,7 +12,6 @@ description: <p>We discuss a simple logic to describe the hide-and-seek game, an
 #source: Published in <i>WoLLIC 2021</i>. <a href='https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13'>Download paper here</a>
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<div id="LHS" style="display:none">
 <p>Collaborated with <a href='https://people.ucas.ac.cn/~lidazhu?language=en'>Prof. Dazhu Li</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
-</div> 
+
 

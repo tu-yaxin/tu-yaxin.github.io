@@ -1,16 +1,15 @@
 ---
-title: "Attempts to solve standard lattice problems via qunatum algorithms"
+title: "On Modal Substitution Logic"
 collection: projects
-source: http://tu-yaxin.github.io/files/qLWE.pdf
-type: "manuscript"
-description_id: 'qLWE'
-#permalink: /project/qLWE
+description_id: 'MSL'
+description: <p>Exploring the extension of basic modal logic with an iterative substitution operator. </p>
+#permalink: /projects/MSL
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
 #venue: 'Journal 1'
-#source: <a href='http://tu-yaxin.github.io/files/qLWE.pdf'>Download manuscript here</a>
+#source: 
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-description: <p>We attempted to solve discrete Gaussian sampling (equivalent to standard lattice problems) by first reducing it to a quantum analog of LWE (learning with errors) with special error distribution, and then solving the quantum LWE problem. We closed the first step, leaving the second step open. </p>
----
-<p>Collaborated with <a href='http://www.chenyilei.net/'>Prof. Yilei Chen</a>, <a href='https://sites.google.com/view/qipengliu'>Dr. Qipeng Liu</a> and <a href='https://zihanhu.cn/'>Zihan Hu</a>. </p>
 
+---
+<p>Discussing with <a href='https://staff.fnwi.uva.nl/j.vanbenthem/'>Prof. Johan van Benthem</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a>, <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>, and <a href='https://people.ucas.ac.cn/~lidazhu?language=en'>Prof. Dazhu Li</a></p>
