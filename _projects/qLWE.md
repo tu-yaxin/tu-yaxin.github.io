@@ -1,7 +1,7 @@
 ---
 title: "Attempts to solve standard lattice problems via qunatum algorithms"
 collection: projects
-#permalink:
+#permalink: /project/qLWE
 source: http://tu-yaxin.github.io/files/qLWE.pdf
 type: "manusript"
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
