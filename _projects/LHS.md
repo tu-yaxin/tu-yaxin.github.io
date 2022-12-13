@@ -4,7 +4,7 @@ collection: projects
 source: https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13
 type: "paper"
 description_id: LHS #javascript:toggle('LHS')
-description: 
+description: <p>We discuss a simple logic to describe the hide-and-seek game, and showed that adding an equality constant to describe the winning condition of the seeker makes our logic undecidable.</p>
 #permalink
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
