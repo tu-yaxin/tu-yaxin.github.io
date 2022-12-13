@@ -13,5 +13,6 @@ description: <p>A new PRG-based function secret sharing scheme to succinctly and
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <p>Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>. Potentially having <a href="https://hackmd.io/@matan">Matan Hamilis</a> for implementation. </p>
+<p>Aiming for <i>CCS 2023</i>.</p>
 
 
