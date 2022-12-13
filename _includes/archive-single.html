@@ -12,16 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
-<script language="JavaScript" type="text/JavaScript"> 		
-  function toggle(id) {
-    var x = document.getElementById(id);
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-  </script>
+
+
+<!-- for projects: -->
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -36,26 +29,48 @@
           alt="">
       </div>
     {% endif %}
+    
 
-<!-- for projects: -->
-    <h2 class="archive__item-title" itemprop="headline">
-      <a href="javascript:toggle('{{ post.description_id }}')" style="color:rgb(76, 76, 76)">{{ title }}</a> {% if post.source %} [<a href="{{ post.source }}">{{post.type}}</a>] {% endif %}
-    </h2>
-    <div id={{post.description_id}} style="display:none">
-      {{post.description}}
-    </div> 
- 
+    {% if post.collection == 'projects' %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}    
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
     {% endif %}
 
-    <!-- for posts
+
+    <!--
+
+<script language="JavaScript" type="text/JavaScript"> 		
+  function toggle(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  </script>
+
+
+
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="javascript:toggle('{{ post.description_id }}')">{{ title }}</a> 
+    </h2>
+    <div id={{post.description_id}} style="display:none">
+      {{post.description}}
+    </div> 
+  
+
+-->
+ 
+    <!-- for posts-->
+{% if post.collection == "posts" %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -88,7 +103,8 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}-->
+    {% endif %}
+{% endif %}
 
   </article>
 </div>
