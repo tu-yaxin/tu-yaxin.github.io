@@ -3,6 +3,7 @@ title: "Logic of Hide-and-Seek"
 collection: projects
 source: https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13
 type: "paper"
+description_id: 'LHS' #javascript:toggle('LHS')
 #permalink
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
@@ -10,7 +11,28 @@ type: "paper"
 #source: Published in <i>WoLLIC 2021</i>. <a href='https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13'>Download paper here</a>
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<p>We discuss a simple logic to describe the hide-and-seek game, and showed that adding an equality constant to describe the winning condition of the seeker makes our logic undecidable.</p><p>Advised by <a href='https://staff.fnwi.uva.nl/j.vanbenthem/'>Prof. Johan van Benthem</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
+<p>We discuss a simple logic to describe the hide-and-seek game, and showed that adding an equality constant to describe the winning condition of the seeker makes our logic undecidable.</p><p>Collaborated with <a href='https://people.ucas.ac.cn/~lidazhu?language=en'>Prof. Dazhu Li</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
 
 
 
+<div class="box" id='LHS' style="border-style:solid; border-width:1px;
+display: none; padding-left:4px; padding-right:4px; padding-top:1px;
+padding-bottom:1px; background-color:#F0F0F0"> 			<h2><span style="font-weight:
+400">
+Most recent works on cryptographic obfuscation focus on the high-end regime of
+obfuscating general circuits while guaranteeing computational indistinguishability between functionally equivalent circuits. Motivated by the goals of simplicity and efficiency, we initiate
+a systematic study of "low-end" obfuscation, focusing on simpler representation models and
+information-theoretic notions of security. We obtain the following results.
+<ul>
+<li><i>Positive results via "white-box" learning.</i> We present a general technique for obtaining perfect indistinguishability obfuscation from exact learning algorithms that are given
+restricted access to the representation of the input function. We demonstrate the usefulness
+of this approach by obtaining simple obfuscation for decision trees and multilinear read-k
+arithmetic formulas.
+</li><li><i> Negative results via PAC learning.</i> A proper obfuscation scheme obfuscates programs
+from a class C by programs from the same class. Assuming the existence of one-way functions, we show that there is no proper indistinguishability obfuscation scheme for k-CNF
+formulas for any constant k >= 3; in fact, even obfuscating 3-CNF by k-CNF is impossible.
+This result applies even to computationally secure obfuscation, and makes an unexpected
+use of PAC learning in the context of negative results for obfuscation.
+</li><li><i>Separations.</i> We study the relations between different information-theoretic notions of indistinguishability obfuscation, giving cryptographic evidence for separations between them.
+</li></ul>
+</h2> </div> 
