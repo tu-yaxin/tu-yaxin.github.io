@@ -3,7 +3,8 @@ title: "Logic of Hide-and-Seek"
 collection: projects
 source: https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13
 type: "paper"
-description_id: "LHS" #javascript:toggle('LHS')
+description_id: LHS #javascript:toggle('LHS')
+description: 
 #permalink
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
