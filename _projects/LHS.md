@@ -14,22 +14,7 @@ description_id: 'LHS' #javascript:toggle('LHS')
 <div id="LHS" style="display:none">
 <h2><span style="font-weight:
 400">
-Most recent works on cryptographic obfuscation focus on the high-end regime of
-obfuscating general circuits while guaranteeing computational indistinguishability between functionally equivalent circuits. Motivated by the goals of simplicity and efficiency, we initiate
-a systematic study of "low-end" obfuscation, focusing on simpler representation models and
-information-theoretic notions of security. We obtain the following results.
-<ul>
-<li><i>Positive results via "white-box" learning.</i> We present a general technique for obtaining perfect indistinguishability obfuscation from exact learning algorithms that are given
-restricted access to the representation of the input function. We demonstrate the usefulness
-of this approach by obtaining simple obfuscation for decision trees and multilinear read-k
-arithmetic formulas.
-</li><li><i> Negative results via PAC learning.</i> A proper obfuscation scheme obfuscates programs
-from a class C by programs from the same class. Assuming the existence of one-way functions, we show that there is no proper indistinguishability obfuscation scheme for k-CNF
-formulas for any constant k >= 3; in fact, even obfuscating 3-CNF by k-CNF is impossible.
-This result applies even to computationally secure obfuscation, and makes an unexpected
-use of PAC learning in the context of negative results for obfuscation.
-</li><li><i>Separations.</i> We study the relations between different information-theoretic notions of indistinguishability obfuscation, giving cryptographic evidence for separations between them.
-</li></ul>
+<p>We discuss a simple logic to describe the hide-and-seek game, and showed that adding an equality constant to describe the winning condition of the seeker makes our logic undecidable.</p><p>Collaborated with <a href='https://people.ucas.ac.cn/~lidazhu?language=en'>Prof. Dazhu Li</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
 </span>
 </h2> </div> 
 <!--
