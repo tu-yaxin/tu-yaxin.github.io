@@ -5,7 +5,7 @@ collection: projects
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
 #venue: 'Journal 1'
-source: We are aiming for CCS 2023. <a href='http://tu-yaxin.github.io/files/DMPF.pdf'>Download manuscript here</a>
+source: We are aiming for <i>CCS 2023</i>. <a href='http://tu-yaxin.github.io/files/DMPF.pdf'>Download manuscript here</a>
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 A new PRG-based function secret sharing scheme to succinctly and additively share multi-point functions. It appears to be the practically fastest solution in most application scenarios (e.g. when used to derive pseudorandom correlation generator for OLEs).
