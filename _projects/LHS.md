@@ -1,7 +1,7 @@
 ---
 title: "Logic of Hide-and-Seek"
 collection: projects
-#permalink: /projects/LHS
+permalink: https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
 venue: 'WoLLIC 2021'
