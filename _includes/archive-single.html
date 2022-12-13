@@ -44,10 +44,12 @@
       {% else %}
         {{ title }} [<a href="{{ post.source }}">{{post.type}}</a>]
       {% endif %}-->
-      <div id='LHS'>
-        {{post.description}}
-      </div> 
+
     </h2>
+    <a href="javascript:toggle('LHS')">{{ title }}</a>
+    <div id='LHS'>
+      {{post.description}}
+    </div> 
      
 
 
