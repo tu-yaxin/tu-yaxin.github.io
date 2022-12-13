@@ -40,7 +40,7 @@
 <!-- for projects: -->
 {% if post.collection == 'projects'}
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="javascript:toggle('{{ post.description_id }}')">{{ title }}</a> {% if post.source %} [<a href="{{ post.source }}">{{post.type}}</a>] {% endif %}
+      <a href="javascript:toggle('{{ post.description_id }}')" style="color:#000000">{{ title }}</a> {% if post.source %} [<a href="{{ post.source }}">{{post.type}}</a>] {% endif %}
       <!--{% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
