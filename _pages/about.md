@@ -24,8 +24,8 @@ During the first half of 2022 I spent an awesome time working with <a href="http
 It was my privilege to talk to and learn a great deal from <a href="https://staff.fnwi.uva.nl/j.vanbenthem/">Prof. Johan van Benthem</a> who sparked my interest in logic. Working with <a href="http://www.fenrong.net/">Prof. Fenrong Liu</a> and <a href="https://www.isichennai.res.in/~sujata/">Prof. Sujata Ghosh</a> to explore special modal logics was also a great experience for me. 
 </li>
 <li>
-It was a blessing to be accompanied by my friends in Tsinghua University! They are outstanding researchers to talk and work with:<br> <a href="https://zihanhu.cn/">Zihan Hu</a> (theory & quantum crypto), <a href="https://ziqing-huang.github.io/">Ziqing Huang</a> (NLP), <br>
-<a href="https://wmdi.github.io/">Mengdi Wu</a> (computer systems and compilers) and <a href="https://ljt12138.github.io/">Jiatu Li</a> (theory & complexity). 
+It was a blessing to be accompanied by my friends in Tsinghua University! They are outstanding researchers to talk and work with:<br> <a href="https://zihanhu.cn/">Zihan Hu</a> (theory), <a href="https://ziqing-huang.github.io/">Ziqing Huang</a> (NLP), <br>
+<a href="https://wmdi.github.io/">Mengdi Wu</a> (computer systems and compilers) and <a href="https://ljt12138.github.io/">Jiatu Li</a> (theory). 
 </li>
 </ul>
 
