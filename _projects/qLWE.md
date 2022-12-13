@@ -5,11 +5,10 @@ title: "Attempts to solve standard lattice problems via qunatum algorithms"
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
 #venue: 'Journal 1'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+source: [Download manuscript here](http://tu-yaxin.github.io/files/DMPF.pdf)
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 We attempted to solve discrete Gaussian sampling (equivalent to standard lattice problems) by first reducing it to a quantum analog of LWE (learning with errors) with special error distribution, and then solving the quantum LWE problem. We closed the first step, leaving the second step open. 
 
 Collaborated with <a href='http://www.chenyilei.net/'>Prof. Yilei Chen</a>, <a href='https://sites.google.com/view/qipengliu'>Dr. Qipeng Liu</a> and <a href='https://zihanhu.cn/'>Zihan Hu</a>. 
 
-<a href='http://tu-yaxin.github.io/files/qLWE.pdf'>Manuscript</a>. 
