@@ -3,6 +3,7 @@ title: "Function secret sharing for multi-point functions"
 collection: projects
 source: http://tu-yaxin.github.io/files/DMPF.pdf
 type: "manuscript"
+description_id: 'DMPF'
 #permalink
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01

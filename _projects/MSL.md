@@ -1,6 +1,7 @@
 ---
 title: "On Modal Substitution Logic"
 collection: projects
+description_id: 'MSL'
 #permalink: /projects/MSL
 #excerpt: 'Exploring the extension of basic modal logic with an iterative substitution operator. '
 #date: 2009-10-01
