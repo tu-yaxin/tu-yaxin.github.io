@@ -10,6 +10,7 @@ source: Aiming for <i>CCS 2023</i>. <a href='http://tu-yaxin.github.io/files/DMP
 description: <p>A new PRG-based function secret sharing scheme to succinctly and additively share multi-point functions. It appears to be the practically fastest solution in most application scenarios (e.g. when used to derive pseudorandom correlation generator for OLEs).</p>
 
 <p>Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>. We are potentially having Matan Hamilis to implement our scheme. </p>
-
+---
+<p>A new PRG-based function secret sharing scheme to succinctly and additively share multi-point functions. It appears to be the practically fastest solution in most application scenarios (e.g. when used to derive pseudorandom correlation generator for OLEs).</p><p>Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>. We are potentially having Matan Hamilis to implement our scheme. </p>
 
 

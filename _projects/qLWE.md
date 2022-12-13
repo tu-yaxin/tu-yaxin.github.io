@@ -12,6 +12,5 @@ description: <p>We attempted to solve discrete Gaussian sampling (equivalent to 
 <p>Collaborated with <a href='http://www.chenyilei.net/'>Prof. Yilei Chen</a>, <a href='https://sites.google.com/view/qipengliu'>Dr. Qipeng Liu</a> and <a href='https://zihanhu.cn/'>Zihan Hu</a>. </p>
 
 ---
-Show some
-
+<p>We attempted to solve discrete Gaussian sampling (equivalent to standard lattice problems) by first reducing it to a quantum analog of LWE (learning with errors) with special error distribution, and then solving the quantum LWE problem. We closed the first step, leaving the second step open. </p><p>Collaborated with <a href='http://www.chenyilei.net/'>Prof. Yilei Chen</a>, <a href='https://sites.google.com/view/qipengliu'>Dr. Qipeng Liu</a> and <a href='https://zihanhu.cn/'>Zihan Hu</a>. </p>
 

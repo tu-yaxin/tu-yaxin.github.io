@@ -11,7 +11,7 @@ description: <p>We discuss a simple logic to describe the hide-and-seek game, an
 
 <p>Advised by <a href='https://staff.fnwi.uva.nl/j.vanbenthem/'>Prof. Johan van Benthem</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
 ---
-
+<p>We discuss a simple logic to describe the hide-and-seek game, and showed that adding an equality constant to describe the winning condition of the seeker makes our logic undecidable.</p><p>Advised by <a href='https://staff.fnwi.uva.nl/j.vanbenthem/'>Prof. Johan van Benthem</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
 
 
 
