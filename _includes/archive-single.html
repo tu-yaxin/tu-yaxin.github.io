@@ -35,10 +35,19 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}-->
     </h2>
-    
+
+    {% if post.description %}
+      {{ post.description }}
+    {% endif %}
+
+    {% if post.source %}
+      <p>{{ post.source }}</p>
+    {% endif %}
+
+    <!--
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    {% endif %}-->
 
         <!--{% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -54,13 +63,6 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}-->
 
-    {% if post.source %}
-      <p>{{ post.source }}</p>
-    {% endif %}
-
-    {% if post.description %}
-      <p>{{ post.description }}</p>
-    {% endif %}
     
     <!--
     {% if post.citation and post.paperurl %}
