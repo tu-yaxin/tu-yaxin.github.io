@@ -12,9 +12,6 @@ description_id: "LHS" #javascript:toggle('LHS')
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <div id="LHS" style="display:none">
-<h2><span style="font-weight:
-400">
 <p>We discuss a simple logic to describe the hide-and-seek game, and showed that adding an equality constant to describe the winning condition of the seeker makes our logic undecidable.</p><p>Collaborated with <a href='https://people.ucas.ac.cn/~lidazhu?language=en'>Prof. Dazhu Li</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. </p>
-</span>
-</h2> </div> 
+</div> 
 
