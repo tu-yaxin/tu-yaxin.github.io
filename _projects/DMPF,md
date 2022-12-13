@@ -12,4 +12,4 @@ A new PRG-based function secret sharing scheme to succinctly and additively shar
 
 Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>. We are potentially having Matan Hamilis to implement our scheme. 
 
-<a href=''http://tu-yaxin.github.io/files/DMPF.pdf'>Manuscript</a>. We are aiming for CCS 2023. 
+<a href='http://tu-yaxin.github.io/files/DMPF.pdf'>Manuscript</a>. We are aiming for CCS 2023. 

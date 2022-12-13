@@ -11,3 +11,5 @@ collection: projects
 Exploring the extension of basic modal logic with an iterative substitution operator. 
 
 Advised by <a href='https://staff.fnwi.uva.nl/j.vanbenthem/'>Prof. Johan van Benthem</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. 
+
+
