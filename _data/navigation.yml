@@ -6,6 +6,5 @@ main:
   - title: "CV"
     url: /files/Yaxin_Tu_CV.pdf
      
-  - title: "Miscellaneous"
-    url: /misc/
-
+  #- title: "Miscellaneous"
+  #  url: /misc/
