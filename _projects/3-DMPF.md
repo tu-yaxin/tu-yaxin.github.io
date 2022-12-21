@@ -15,7 +15,7 @@ collection: projects
 <h2>Function secret sharing for multi-point functions</h2>
 <ul type="circle">
 <li>We propose a new PRG-based function secret sharing scheme to succinctly and additively share multi-point functions. It appears to be the practically fastest solution in most application scenarios (e.g. when used to derive pseudorandom correlation generator for OLEs).</li>
-<li>Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>. Potentially having <a href="https://hackmd.io/@matan">Matan Hamilis</a> for implementation. </li>
+<li>Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>. </li>
 <li>Aiming for <i>Computer and Communications Security</i>(CCS 2023).</li>
 <li><a href="http://tu-yaxin.github.io/files/DMPF.pdf">Manuscript</a></li>
 </ul>
