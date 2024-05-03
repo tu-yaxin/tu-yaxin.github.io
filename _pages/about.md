@@ -8,24 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am graduating from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (also [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), [Tsinghua University](https://www.tsinghua.edu.cn/en/).  I'll be a new Ph.D. student in [Princeton University](https://www.princeton.edu/). 
+I am a first-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. Ran Raz and Prof. Alex Lombardi. In 2023 I graduated from Yao Class at Tsinghua University, where I have been advised by Prof. Yilei Chen who sparked my interest in cryptography.  
 
-I’m broadly interested in theoretical computer science, with a focus on cryptography and its interplay with other fields.
+I have found and am exploring my interests in TCS, including complexity theory, (classcial and quantum) cryptography, and their interplay. 
 
-During my undergraduate, I was fortunate to be surrounded by great people. 
-<ul>
-<li>
-I was fortunate to be advised by <a href="http://www.chenyilei.net/">Prof. Yilei Chen</a> who sparked my interest in cryptography. 
-</li>
-<li>
-During the first half of 2022 I spent an awesome time working with <a href="https://www.cs.idc.ac.il/~elette/">Prof. Elette Boyle</a> in Reichman University in Israel and in NTT Reseach. It was also my honor to meet <a href="https://yuvali.cswp.cs.technion.ac.il/">Prof. Yuval Ishai</a> in both places and have inspiring talks with him. 
-</li>
-<li>
-It was my honor to talk to and learn a great deal from <a href="https://staff.fnwi.uva.nl/j.vanbenthem/">Prof. Johan van Benthem</a> who sparked my interest in logic. Working with <a href="http://www.fenrong.net/">Prof. Fenrong Liu</a> and <a href="https://www.isichennai.res.in/~sujata/">Prof. Sujata Ghosh</a> to explore special modal logics was also a great experience for me. 
-</li>
-<li>
-It was a blessing to be accompanied by my friends in Tsinghua University! They are outstanding researchers to talk and work with:<br> <a href="https://zihanhu.cn/">Zihan Hu</a> (theory), <a href="https://ziqing-huang.github.io/">Ziqing Huang</a> (NLP), <br>
-<a href="https://wmdi.github.io/">Mengdi Wu</a> (computer systems and compilers) and <a href="https://ljt12138.github.io/">Jiatu Li</a> (theory). 
-</li>
-</ul>
+<h2 id="publications"> Publications</h2>
+- **On the Hardness of S|LWE> with Gaussian and Other Amplitudes**
+Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*
+[Eprint](https://eprint.iacr.org/2023/1498)
 
+- **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**   
+Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*
+WoLLIC 2021 
+[Conference version](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)
+
+<h2 id="teaching"> Teaching</h2>
+- TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University, Spring 2023
+
+<h2 id="experience"> Experience</h2>
+- Research intern, Reichman University (Feb 2022 - Aug 2022)

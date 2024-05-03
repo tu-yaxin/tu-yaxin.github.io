@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yaxin Tu 涂雅欣"
   avatar           : "profile.jpg"
-  bio              : "Senior undergraduate student in Yao Class, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "First year PhD in CS department, Princeton University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "tyx0001ash@gmail.com"
+  email            : "yaxin.tu@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "0000-0002-1573-6382"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

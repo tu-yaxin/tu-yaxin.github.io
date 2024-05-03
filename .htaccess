@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule .* https://tu-yaxin.github.io/ [L,R=301,NC]

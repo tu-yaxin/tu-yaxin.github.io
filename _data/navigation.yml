@@ -1,10 +1,16 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
+  #- title: "Publications"
+  #  url: /#publications
 
-  - title: "CV"
-    url: /files/Yaxin_Tu_CV.pdf
+  #- title: "Teaching"
+  #  url: /#teaching
+    
+  #- title: "Experience"
+  #  url: /#experience
+
+  #- title: "CV"
+  #  url: /files/Yaxin_Tu_CV.pdf
      
   #- title: "Miscellaneous"
   #  url: /misc/
