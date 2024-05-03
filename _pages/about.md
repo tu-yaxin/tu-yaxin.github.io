@@ -17,6 +17,11 @@ I have found and am exploring my interests in TCS, including complexity theory, 
 Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*
 [Eprint](https://eprint.iacr.org/2023/1498)
 
+- **A Simple Logic of the Hide and Seek Game**   
+Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*
+Studia Logica Volume 111
+[Journal version](https://link.springer.com/article/10.1007/s11225-023-10039-4)
+
 - **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**   
 Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*
 WoLLIC 2021 
