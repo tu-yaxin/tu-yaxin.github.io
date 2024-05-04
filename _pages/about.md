@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. Ran Raz and Prof. Alex Lombardi. In 2023 I graduated from Yao Class at Tsinghua University, where I have been advised by Prof. Yilei Chen who sparked my interest in cryptography.  
 
-I have found and am exploring my interests in TCS, including complexity theory, (classcial and quantum) cryptography, and their interplay. 
+I have found and am exploring my interests broadly in TCS, including complexity theory, (classcial and quantum) cryptography, and their interplay. 
 
 <h2 id="publications"> Publications</h2>
 - **On the Hardness of S|LWE> with Gaussian and Other Amplitudes**  
