@@ -35,4 +35,4 @@ WoLLIC 2021
 - TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University, Spring 2023
 
 <h2 id="experience"> Experience</h2>
-- Research intern, Reichman University (Feb 2022 - Aug 2022)
+- Research intern hosted by Prof. Elette Boyle, Reichman University (Feb 2022 - Aug 2022)
