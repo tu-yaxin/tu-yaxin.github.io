@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. Ran Raz and Prof. Alex Lombardi. In 2023 I graduated from Yao Class at Tsinghua University, where I have been advised by Prof. Yilei Chen who sparked my interest in cryptography.  
+I am a second-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. Ran Raz and Prof. Alex Lombardi. I have found and am exploring my interests broadly in TCS, including complexity theory, cryptography, and their interplay. 
 
-I have found and am exploring my interests broadly in TCS, including complexity theory, (classcial and quantum) cryptography, and their interplay. 
+Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. During my undergraduate, I was fortunate to be advised by great people. I was fortunate to work with Prof. [Yilei Chen](http://www.chenyilei.net/) at Tsinghua who sparked my interest in cryptography. During 2022 I had an amazing time at Reichman University and NTT Research working with Prof. [Elette Boyle](https://cs.idc.ac.il/~elette/) and Prof. [Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/). 
+
+
 
 <h2 id="publications"> Publications</h2>
-- **On the Hardness of S|LWE> with Gaussian and Other Amplitudes**  
+- **Improved Constructions for Distributed Multi-Point Functions**  
+  Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  
+  IEEE Symposium on Security and Privacy 2025
+
+- **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  
   [Eprint](https://eprint.iacr.org/2023/1498)
 
@@ -28,7 +34,9 @@ I have found and am exploring my interests broadly in TCS, including complexity 
   [Conference version](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)
 
 <h2 id="teaching"> Teaching</h2>
-- TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University, Spring 2023
+- TA for Cryptography (Fall 2024) by Prof. Alex Lombardi, Princeton University
+
+- TA for Secure Multiparty Computation: Theory and Application (Spring 2023) by Prof. Yifan Song, Tsinghua University
 
 <h2 id="experience"> Experience</h2>
 - Research intern hosted by Prof. Elette Boyle, Reichman University (Feb 2022 - Aug 2022)
