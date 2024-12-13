@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. Ran Raz and Prof. Alex Lombardi. I have found and am exploring my interests broadly in TCS, including complexity theory, cryptography, and their interplay. 
+I am a second-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. Ran Raz and Prof. [Alex Lombardi](https://sites.google.com/view/alex-lombardi/home). I have found and am exploring my interests broadly in TCS, including complexity theory, cryptography, and their interplay. 
 
 Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. During my undergraduate, I was fortunate to be advised by great people. I was fortunate to work with Prof. [Yilei Chen](http://www.chenyilei.net/) at Tsinghua who sparked my interest in cryptography. During 2022 I had an amazing time at Reichman University and NTT Research working with Prof. [Elette Boyle](https://cs.idc.ac.il/~elette/) and Prof. [Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/). 
 
@@ -34,9 +34,9 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   [Conference version](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)
 
 <h2 id="teaching"> Teaching</h2>
-- TA for Cryptography (Fall 2024) by Prof. Alex Lombardi, Princeton University
+- (Fall 2024) TA for [Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University
 
-- TA for Secure Multiparty Computation: Theory and Application (Spring 2023) by Prof. Yifan Song, Tsinghua University
+- (Spring 2023) TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University
 
 <h2 id="experience"> Experience</h2>
 - Research intern hosted by Prof. Elette Boyle, Reichman University (Feb 2022 - Aug 2022)
