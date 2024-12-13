@@ -26,12 +26,12 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 - **A Simple Logic of the Hide and Seek Game**   
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  
   Studia Logica Volume 111  
-  [Journal version](https://link.springer.com/article/10.1007/s11225-023-10039-4)
+  [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4) #Journal
 
 - **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**   
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  
   WoLLIC 2021  
-  [Conference version](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)
+  [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13) #Conference
 
 <h2 id="teaching"> Teaching</h2>
 - (Fall 2024) TA for [Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University
