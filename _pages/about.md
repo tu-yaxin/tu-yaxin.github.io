@@ -21,7 +21,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  
-  [Eprint](https://eprint.iacr.org/2023/1498) [arXiv](https://arxiv.org/abs/2310.00644)
+  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644)
 
 - **A Simple Logic of the Hide and Seek Game**   
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  
