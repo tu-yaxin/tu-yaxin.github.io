@@ -15,6 +15,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 
 <h2 id="publications"> Publications</h2>
+
 - **Improved Constructions for Distributed Multi-Point Functions**  
   Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  
   IEEE Symposium on Security and Privacy 2025
