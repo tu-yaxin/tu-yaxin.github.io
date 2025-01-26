@@ -19,21 +19,20 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 - **Improved Constructions for Distributed Multi-Point Functions**  \
   Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  \
   IEEE Symposium on Security and Privacy 2025 \
-  [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
   <details>
-  <summary>[Abstract]</summary>
-
+  <summary>[Abstract]</summary> 
   A Distributed Point Function (DPF) is a cryptographic primitive used for compressing additive secret shares of a secret unit vector across two parties. Many DPF applications require compressed shares of a sparse weight-t vector, namely a Distributed Multi-Point Function (DMPF). Despite the strong motivation and prior optimization efforts, in most use cases the best practical implementation of DMPF is still a simple brute-force combination of t independent DPFs. We present new constructions and optimized implementations of DMPFs in different parameter regimes, providing significant efficiency savings over existing approaches. We showcase our new constructions within applications of pseudorandom correlation generators (PCGs) and 2-server private set intersection (PSI). Incorporating our tools into the state-of-the-art PCG for “silent” generation of binary multiplication triples (FOLEAGE, Bombar et al, ePrint’24) yields a ×2.68 improvement in throughput, with only ×1.4 blowup in the seed size. On a single core of our benchmark machine, our implementation silently generates up to 22.1 million triples per second, outperforming even the best “non-silent” protocol (Roy, CRYPTO’22), which generates 16 million triples per second.
   </details>
+  [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) 
 
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
-  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
+  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) 
 
 - **A Simple Logic of the Hide and Seek Game**   \
-  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \ 
+  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
   Studia Logica Volume 111  \
-  [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4) \
+  [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4) 
 
 - **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**  \
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
