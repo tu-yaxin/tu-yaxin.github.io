@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", "~> 0.2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -25,3 +25,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem 'csv', require: 'csv'
+gem 'base64', require: 'base64'
+gem 'bigdecimal', require: 'bigdecimal'
+gem 'tzinfo-data'
