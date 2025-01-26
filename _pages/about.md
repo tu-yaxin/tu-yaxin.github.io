@@ -22,6 +22,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
   <details>
   <summary>Toggle List Title</summary>
+
   - Item 1
   - Item 2
   - Item 3
