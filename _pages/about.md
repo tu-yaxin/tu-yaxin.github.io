@@ -18,6 +18,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 - **Improved Constructions for Distributed Multi-Point Functions**  
   Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  
   IEEE Symposium on Security and Privacy 2025
+  [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044)
 
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  
