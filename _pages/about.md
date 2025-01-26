@@ -21,7 +21,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   IEEE Symposium on Security and Privacy 2025 \
   [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
   <details>
-  <summary>[Abstract] [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044)</summary>
+  <summary>[Abstract]</summary>
 
   A Distributed Point Function (DPF) is a cryptographic primitive used for compressing additive secret shares of a secret unit vector across two parties. Many DPF applications require compressed shares of a sparse weight-t vector, namely a Distributed Multi-Point Function (DMPF). Despite the strong motivation and prior optimization efforts, in most use cases the best practical implementation of DMPF is still a simple brute-force combination of t independent DPFs. We present new constructions and optimized implementations of DMPFs in different parameter regimes, providing significant efficiency savings over existing approaches. We showcase our new constructions within applications of pseudorandom correlation generators (PCGs) and 2-server private set intersection (PSI). Incorporating our tools into the state-of-the-art PCG for “silent” generation of binary multiplication triples (FOLEAGE, Bombar et al, ePrint’24) yields a ×2.68 improvement in throughput, with only ×1.4 blowup in the seed size. On a single core of our benchmark machine, our implementation silently generates up to 22.1 million triples per second, outperforming even the best “non-silent” protocol (Roy, CRYPTO’22), which generates 16 million triples per second.
   </details>
