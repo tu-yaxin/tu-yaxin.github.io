@@ -16,24 +16,24 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 <h2 id="publications"> Publications</h2>
 
-- **Improved Constructions for Distributed Multi-Point Functions**  
-  Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  
-  IEEE Symposium on Security and Privacy 2025\
-  [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044)
+- **Improved Constructions for Distributed Multi-Point Functions**  \
+  Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  \
+  IEEE Symposium on Security and Privacy 2025 \
+  [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
 
-- **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  
-  Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  
-  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644)
+- **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
+  Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
+  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
 
-- **A Simple Logic of the Hide and Seek Game**   
-  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  
-  Studia Logica Volume 111  
-  [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4) 
+- **A Simple Logic of the Hide and Seek Game**   \
+  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \ 
+  Studia Logica Volume 111  \
+  [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4) \
 
-- **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**   
-  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  
-  WoLLIC 2021  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13) 
+- **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**  \
+  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
+  WoLLIC 2021  \
+  [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)  \
 
 <h2 id="teaching"> Teaching</h2>
 - (Fall 2024) TA for [Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University
