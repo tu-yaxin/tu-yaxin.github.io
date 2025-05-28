@@ -16,6 +16,28 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 <h2 id="publications"> Publications</h2>
 
+- **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
+  Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
+  CRYPTO 2025 \
+  <details>
+  <summary>Abstract</summary> <div style="font-size: 0.9em; padding-left: 40px; padding-right: 10px; text-align: justify; color: #3b5998; max-width: 800px;">
+      The learning with errors problem (LWE) is one of the most important building blocks for post-quantum cryptography. To better understand the quantum hardness of LWE, it is crucial to explore quantum variants of LWE. To this end, Chen, Liu, and Zhandry [Eurocrypt 2022] defined S|LWE⟩ and C|LWE⟩ problems by encoding the error of LWE samples into quantum amplitudes, and showed efficient quantum algorithms for a few interesting amplitudes. However, algorithms or hardness results of the most interesting amplitude, Gaussian, were not addressed before.<br><br>
+      In this paper, we show new algorithms, hardness results and applications for S|LWE⟩ and S|LWE⟩ with real Gaussian, Gaussian with linear or quadratic phase terms, and other related amplitudes. Let n be the dimension, q be the modulus of LWE samples. Our main results are<br><br>
+      <ol>
+      <li>
+        There is a 2^{Θ(√(n log q))}-time algorithm for S|LWE⟩ with Gaussian amplitude with known phase, given 2^{Θ(√(n log q))} many quantum samples. The algorithm is modified from Kuperberg's sieve, and in fact works for more general amplitudes as long as the amplitudes and phases are completely known.
+      </li>
+      <li>
+        There is a polynomial time quantum algorithm for solving S|LWE⟩ and C|LWE⟩ for Gaussian with quadratic phase amplitudes, where the sample complexity is as small as Õ(n). As an application, we give a quantum oblivious LWE sampler where the core quantum sampler requires only quasi-linear sample complexity. This improves upon the previous oblivious LWE sampler given by Debris-Alazard, Fallahpour, Stehlé [STOC 2024], whose core quantum sampler requires Õ(nr) sample complexity, where r is the standard deviation of the error.
+      </li>
+      <li>
+        There exist polynomial time quantum reductions from standard LWE or worst-case GapSVP to S|LWE⟩ with Gaussian amplitude with small unknown phase, and arbitrarily many samples. Compared to the first two items, the appearance of the unknown phase term places a barrier in designing efficient quantum algorithm for solving standard LWE via S|LWE⟩.
+      </li>
+    </ol>
+    </div>
+  </details>
+  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) 
+
 - **Improved Constructions for Distributed Multi-Point Functions**  \
   Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  \
   IEEE Symposium on Security and Privacy 2025 \
@@ -27,10 +49,6 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
     </div>
   </details>
   [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) 
-
-- **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
-  Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
-  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) 
 
 - **A Simple Logic of the Hide and Seek Game**   \
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
