@@ -18,7 +18,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **On SNARGs, $i\mathcal{O}$, and Falsifiability**  \
   Alex Lombardi, *Yaxin Tu*, Daniel Wichs  \
-  Submitted to CRYPTO 2026 \
+  Submitted to Crypto 2026 \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
     The Gentry-Wichs barrier (STOC '11) rules out constructions of succinct non-interactive arguments (SNARGs) for $\mathsf{NP}$ with black-box security proofs under falsifiable assumptions. On the other hand, a recent work of Waters and Wu (CRYPTO '25) constructs SNARGs for NP from subexponentially secure indistinguishability obfuscation and one-way functions. This naturally suggests the following two questions: what kinds of SNARG constructions does the Gentry-Wichs technique actually rule out, and is the apparent unfalsifiability of $i\mathcal{O}$ helpful for circumventing Gentry-Wichs?<br><br>
@@ -30,7 +30,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **Optimally Succinct Oblivious Transfer via Projective PRGs**  \
   Elette Boyle, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Scholl, *Yaxin Tu*  \
-  Submitted to CRYPTO 2026 \
+  Submitted to Crypto 2026 \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
       We identify and explore new connections between highly succinct protocols for oblivious transfer (OT) and projective pseudorandom generators, as recently put forth by Applebaum et al. (STOC 2023).  Leveraging these connections, we improve the communication cost of OT and related primitives, obtaining the following results:
@@ -45,7 +45,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
-  CRYPTO 2025 \
+  Crypto 2025 \
   [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
