@@ -50,6 +50,15 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
   [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) 
 
+- **A Modal Approach Towards Substitutions**   \
+  *Yaxin Tu*, Sujata Ghosh, Fenrong Liu, Dazhu Li \
+  Studia Logica Volume 111  \
+  <details>
+  <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
+  Substitutions play a crucial role in a wide range of contexts, from analyzing the dynamics of social opinions and conducting mathematical computations to engaging in game-theoretical analysis. For many situations, considering one-step substitutions is often adequate. Yet, for more complex cases, iterative substitutions become indispensable. In this article, our primary focus is to study logical frameworks that model both single-step and iterative substitutions. We explore a number of properties of these logics, including their expressive strength, Hilbert-style proof systems, and satisfiability problems. Additionally, we establish connections between our proposed frameworks and relevant existing ones in the literature. For instance, we precisely delineate the relationship between single-step substitutions and the standard syntactic replacements commonly found in many classical logics. Moreover, special emphasis is placed on iterative substitutions. In this context, we compare our proposed framework with existing ones involving iterative reasoning, thereby highlighting the advantages of our proposal. </div>
+  </details>
+  [Link](https://doi.org/10.1016/j.apal.2026.103742) 
+
 - **A Simple Logic of the Hide and Seek Game**   \
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
   Studia Logica Volume 111  \
@@ -69,7 +78,9 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)  
 
 <h2 id="teaching"> Teaching</h2>
-- (Fall 2024) TA for [Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University
+- (Fall 2025) TA for COS 585: Information Theory by Prof. Ran Raz, Princeton University
+
+- (Fall 2024) TA for [COS 433/533: Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University
 
 - (Spring 2023) TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University
 
