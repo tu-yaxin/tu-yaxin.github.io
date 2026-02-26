@@ -105,11 +105,12 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 <h2 id="teaching"> Teaching</h2>
-- (Fall 2025) TA for COS 585: Information Theory by Prof. Ran Raz, Princeton University
+- TA for COS 585: Information Theory by Prof. Ran Raz, Princeton University (fall 2025)
 
-- (Fall 2024) TA for [COS 433/533: Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University
+- TA for [COS 433/533: Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton) by Prof. Alex Lombardi, Princeton University (fall 2024)
 
-- (Spring 2023) TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University
+- TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University (spring 2023) 
 
 <h2 id="experience"> Experience</h2>
-- Research intern in [FACT Center](https://www.factcenter.org/) hosted by Prof. Elette Boyle, Reichman University (Feb 2022 - Aug 2022)
+- [FACT Center](https://www.factcenter.org/) \
+  Research intern hosted by Prof. Elette Boyle, Reichman University (spring and summer 2022)
