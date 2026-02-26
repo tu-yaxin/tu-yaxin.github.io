@@ -17,7 +17,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 <h2 id="publications"> Publications</h2>
 
 - **On SNARGs, $i\mathcal{O}$, and Falsifiability**  \
-  Alex Lombardi, *Yaxin Tu*, Daniel Wichs  \
+  Alex Lombardi, <u>Yaxin Tu</u>, Daniel Wichs  \
   Submitted to Crypto 2026 \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
