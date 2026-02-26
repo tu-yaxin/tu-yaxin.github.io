@@ -46,12 +46,12 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, <u>Yaxin Tu</u>  \
   Crypto 2025 \
-  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
+  [ePrint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
       The learning with errors problem (LWE) is one of the most important building blocks for post-quantum cryptography. To better understand the quantum hardness of LWE, it is crucial to explore quantum variants of LWE. To this end, Chen, Liu, and Zhandry [Eurocrypt 2022] defined S|LWE⟩ and C|LWE⟩ problems by encoding the error of LWE samples into quantum amplitudes, and showed efficient quantum algorithms for a few interesting amplitudes. However, algorithms or hardness results of the most interesting amplitude, Gaussian, were not addressed before.<br><br>
-      In this paper, we show new algorithms, hardness results and applications for S|LWE⟩ and S|LWE⟩ with real Gaussian, Gaussian with linear or quadratic phase terms, and other related amplitudes. Let n be the dimension, q be the modulus of LWE samples. Our main results are<br><br>
-      <ol>
+      In this paper, we show new algorithms, hardness results and applications for S|LWE⟩ and S|LWE⟩ with real Gaussian, Gaussian with linear or quadratic phase terms, and other related amplitudes. Let n be the dimension, q be the modulus of LWE samples. Our main results are
+  <ol>
       <li>
         There is a $2^{\Theta(\sqrt{n\log q})}$-time algorithm for S|LWE⟩ with Gaussian amplitude with known phase, given $2^{\Theta(\sqrt{n\log q})}$ many quantum samples. The algorithm is modified from Kuperberg's sieve, and in fact works for more general amplitudes as long as the amplitudes and phases are completely known.
       </li>
