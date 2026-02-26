@@ -112,5 +112,5 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 - TA for Secure Multiparty Computation: Theory and Application by Prof. Yifan Song, Tsinghua University (spring 2023) 
 
 <h2 id="experience"> Experience</h2>
-- [FACT Center](https://www.factcenter.org/) \
-  Research intern hosted by Prof. Elette Boyle, Reichman University (spring and summer 2022)
+- [FACT Center](https://www.factcenter.org/), Reichman University \
+  Research intern hosted by Prof. Elette Boyle (spring and summer 2022)
