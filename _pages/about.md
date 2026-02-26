@@ -45,7 +45,8 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
   Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
-  CRYPTO 2025 [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
+  CRYPTO 2025 \
+  [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
       The learning with errors problem (LWE) is one of the most important building blocks for post-quantum cryptography. To better understand the quantum hardness of LWE, it is crucial to explore quantum variants of LWE. To this end, Chen, Liu, and Zhandry [Eurocrypt 2022] defined S|LWE⟩ and C|LWE⟩ problems by encoding the error of LWE samples into quantum amplitudes, and showed efficient quantum algorithms for a few interesting amplitudes. However, algorithms or hardness results of the most interesting amplitude, Gaussian, were not addressed before.<br><br>
@@ -66,7 +67,8 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **Improved Constructions for Distributed Multi-Point Functions**  \
   Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  \
-  IEEE Symposium on Security and Privacy 2025 [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
+  IEEE Symposium on Security and Privacy 2025 \
+  [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
       A Distributed Point Function (DPF) is a cryptographic primitive used for compressing additive secret shares of a secret unit vector across two parties. Many DPF applications require compressed shares of a sparse <i>weight-t</i> vector, namely a Distributed Multi-Point Function (DMPF). Despite the strong motivation and prior optimization efforts, in most use cases the best practical implementation of DMPF is still a simple brute-force combination of t independent DPFs. <br><br>
@@ -77,7 +79,8 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **A Modal Approach Towards Substitutions**   \
   *Yaxin Tu*, Sujata Ghosh, Fenrong Liu, Dazhu Li \
-  Annals of Pure and Applied Logic, Volume 177 [Link](https://doi.org/10.1016/j.apal.2026.103742)  \
+  Annals of Pure and Applied Logic, Volume 177 \
+  [Link](https://doi.org/10.1016/j.apal.2026.103742)  \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
   Substitutions play a crucial role in a wide range of contexts, from analyzing the dynamics of social opinions and conducting mathematical computations to engaging in game-theoretical analysis. For many situations, considering one-step substitutions is often adequate. Yet, for more complex cases, iterative substitutions become indispensable. In this article, our primary focus is to study logical frameworks that model both single-step and iterative substitutions. We explore a number of properties of these logics, including their expressive strength, Hilbert-style proof systems, and satisfiability problems. Additionally, we establish connections between our proposed frameworks and relevant existing ones in the literature. For instance, we precisely delineate the relationship between single-step substitutions and the standard syntactic replacements commonly found in many classical logics. Moreover, special emphasis is placed on iterative substitutions. In this context, we compare our proposed framework with existing ones involving iterative reasoning, thereby highlighting the advantages of our proposal. </div>
@@ -85,7 +88,8 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **A Simple Logic of the Hide and Seek Game**   \
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
-  Studia Logica, Volume 111 [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4)  \
+  Studia Logica, Volume 111 \
+  [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4)  \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
   We discuss a simple logic to describe one of our favourite games from childhood, hide and seek, and show how a simple addition of an equality constant to describe the winning condition of the seeker makes our logic undecidable. There are certain decidable fragments of first-order logic which behave in a similar fashion with respect to such a language extension, and we add a new modal variant to that class. We discuss the relative expressive power of the proposed logic in comparison to the standard modal counterparts. We prove that the model checking problem for the resulting logic is P-complete. In addition, by exploring the connection with related product logics, we gain more insight towards having a better understanding of the subtleties of the proposed framework.</div>
@@ -93,7 +97,8 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**  \
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
-  WoLLIC 2021 [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13)  \
+  WoLLIC 2021  \
+  [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13) \ 
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
   We discuss a simple logic to describe one of our favourite games from childhood, hide and seek, and show how a simple addition of an equality constant to describe the winning condition of the seeker makes our logic undecidable. There are certain decidable fragments of first-order logic which behave in a similar fashion and we add a new modal variant to that class of logics. We also discuss the relative expressive power of the proposed logic in comparison to the standard modal counterparts.</div>
