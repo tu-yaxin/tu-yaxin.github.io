@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year PhD student in the [theory group](https://theory.cs.princeton.edu/) in Princeton University, where I am fortunate to be coadvised by Prof. [Alex Lombardi](https://sites.google.com/view/alex-lombardi/home) and Prof. [Ran Raz](https://engineering.princeton.edu/faculty/ran-raz). I'm broadly interested in theoretical computer science, with a current focus on cryptography and communication complexity. 
 
-Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. During my undergraduate, I was fortunate to be advised by great people. I was fortunate to work with Prof. [Yilei Chen](http://www.chenyilei.net/) at Tsinghua who sparked my interest in cryptography. During 2022 I had an amazing time at Reichman University and NTT Research working with Prof. [Elette Boyle](https://cs.idc.ac.il/~elette/) and Prof. [Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/). 
+Prior to joining Princeton, I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University. During my undergraduate, I was fortunate to be advised by great people. I was fortunate to work with Prof. [Yilei Chen](http://www.chenyilei.net/) at Tsinghua who sparked my interest in cryptography. During 2022 I had an amazing time at Reichman University and NTT Research working with Prof. [Elette Boyle](https://cs.idc.ac.il/~elette/) and Prof. [Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/). 
 
 
 
