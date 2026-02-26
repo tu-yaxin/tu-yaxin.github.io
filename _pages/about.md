@@ -52,7 +52,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **A Modal Approach Towards Substitutions**   \
   *Yaxin Tu*, Sujata Ghosh, Fenrong Liu, Dazhu Li \
-  Studia Logica Volume 111  \
+  Annals of Pure and Applied Logic, Volume 177  \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
   Substitutions play a crucial role in a wide range of contexts, from analyzing the dynamics of social opinions and conducting mathematical computations to engaging in game-theoretical analysis. For many situations, considering one-step substitutions is often adequate. Yet, for more complex cases, iterative substitutions become indispensable. In this article, our primary focus is to study logical frameworks that model both single-step and iterative substitutions. We explore a number of properties of these logics, including their expressive strength, Hilbert-style proof systems, and satisfiability problems. Additionally, we establish connections between our proposed frameworks and relevant existing ones in the literature. For instance, we precisely delineate the relationship between single-step substitutions and the standard syntactic replacements commonly found in many classical logics. Moreover, special emphasis is placed on iterative substitutions. In this context, we compare our proposed framework with existing ones involving iterative reasoning, thereby highlighting the advantages of our proposal. </div>
@@ -61,7 +61,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
 
 - **A Simple Logic of the Hide and Seek Game**   \
   Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
-  Studia Logica Volume 111  \
+  Studia Logica, Volume 111  \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
   We discuss a simple logic to describe one of our favourite games from childhood, hide and seek, and show how a simple addition of an equality constant to describe the winning condition of the seeker makes our logic undecidable. There are certain decidable fragments of first-order logic which behave in a similar fashion with respect to such a language extension, and we add a new modal variant to that class. We discuss the relative expressive power of the proposed logic in comparison to the standard modal counterparts. We prove that the model checking problem for the resulting logic is P-complete. In addition, by exploring the connection with related product logics, we gain more insight towards having a better understanding of the subtleties of the proposed framework.</div>
