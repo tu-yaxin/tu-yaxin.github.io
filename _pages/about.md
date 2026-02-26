@@ -29,7 +29,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 - **Optimally Succinct Oblivious Transfer via Projective PRGs**  \
-  Elette Boyle, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Scholl, *Yaxin Tu*  \
+  Elette Boyle, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Scholl, <u>Yaxin Tu</u>  \
   Submitted to Crypto 2026 \
   <details>
   <summary>Abstract</summary> <div style="padding-left: 40px; padding-right: 10px; text-align: justify; color: #7a8288; max-width: 800px;">
@@ -44,7 +44,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 - **LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling**  \
-  Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, *Yaxin Tu*  \
+  Yilei Chen, Zihan Hu, Qipeng Liu, Han Luo, <u>Yaxin Tu</u>  \
   Crypto 2025 \
   [Eprint](https://eprint.iacr.org/2023/1498), [arXiv](https://arxiv.org/abs/2310.00644) \
   <details>
@@ -66,7 +66,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 - **Improved Constructions for Distributed Multi-Point Functions**  \
-  Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, *Yaxin Tu*  \
+  Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, <u>Yaxin Tu</u>  \
   IEEE Symposium on Security and Privacy 2025 \
   [Link](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00044) \
   <details>
@@ -78,7 +78,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 - **A Modal Approach Towards Substitutions**   \
-  *Yaxin Tu*, Sujata Ghosh, Fenrong Liu, Dazhu Li \
+  <u>Yaxin Tu</u>, Sujata Ghosh, Fenrong Liu, Dazhu Li \
   Annals of Pure and Applied Logic, Volume 177 \
   [Link](https://doi.org/10.1016/j.apal.2026.103742)  \
   <details>
@@ -87,7 +87,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 - **A Simple Logic of the Hide and Seek Game**   \
-  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
+  Dazhu Li, Sujata Ghosh, Fenrong Liu, <u>Yaxin Tu</u>  \
   Studia Logica, Volume 111 \
   [Link](https://link.springer.com/article/10.1007/s11225-023-10039-4)  \
   <details>
@@ -96,7 +96,7 @@ Prior to joining Princeton, I graduated from Yao Class at Tsinghua University. D
   </details>
 
 - **On the Subtle Nature of a Simple Logic of the Hide and Seek Game**  \
-  Dazhu Li, Sujata Ghosh, Fenrong Liu, *Yaxin Tu*  \
+  Dazhu Li, Sujata Ghosh, Fenrong Liu, <u>Yaxin Tu</u>  \
   WoLLIC 2021  \
   [Link](https://link.springer.com/chapter/10.1007/978-3-030-88853-4_13) \ 
   <details>
